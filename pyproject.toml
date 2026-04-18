@@ -1,0 +1,11 @@
+[project]
+name = "pythonprojeto-ml"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.8",
+    "pandas>=3.0.2",
+    "scikit-learn>=1.8.0",
+    "streamlit>=1.56.0",
+]
